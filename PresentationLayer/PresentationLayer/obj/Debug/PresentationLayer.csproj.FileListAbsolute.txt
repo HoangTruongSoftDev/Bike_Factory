@@ -1,0 +1,36 @@
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.DisplayImage.resources
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Register.resources
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Truong\Lasalle College\Summer 2022\OOP\Project_Final_Version\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.dll
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\bin\Debug\DataLayer.pdb
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.DisplayImage.resources
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Register.resources
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Programming\GitHub_Project\Bike_Factory\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb

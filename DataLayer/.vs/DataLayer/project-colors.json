@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a7d0c0d-4da8-47b6-b0e8-0d0fa6826c0a": {
+      "ProjectGuid": "8a7d0c0d-4da8-47b6-b0e8-0d0fa6826c0a",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AAIh+Exyq85odQRbvBmxr8x9VWGp780bsPudZBXABINWEvyNwXpspo+QLundQ6QpJ1JV1de8BWnBgwPVniruYA==",
+  "success": true,
+  "projectFilePath": "C:\\Truong\\Lasalle College\\Summer 2022\\OOP\\Project_Final_Version\\DataLayer\\DataLayer\\DataLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\johnk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
